@@ -25,7 +25,7 @@ touch README.md
 4. [Carol](https://movie.douban.com/subject/10757577/)
 5. [Interstellar](https://movie.douban.com/subject/1889243/)
 
-# 关于计划
+## 关于计划
 希望在未来3个月里，能完成以下目标：
 * 锻炼身体，强健体魄
 * 好好学习，天天向上
